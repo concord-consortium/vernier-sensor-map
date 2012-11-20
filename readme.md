@@ -8,7 +8,7 @@ Releases by John Gastineau <jgastineau@vernier.com> under the BSD-style license 
 The `distribution` branch contains exactly what has been distributed by John Gastineau <jgastineau@vernier.com>.
 The labpro and labquest sensormap xml files have version numbers.
 
-When the `master` is updated the version numbers are removed from the sensormap xml files. This make it easier to
+When a distribution update is merged into the `master` branch the version numbers are removed from the sensormap xml files. This make it easier to
 see what changes have been made to the files.
 
 If the following line is added to the xml files, they can viewed as tables in firefox and safari
