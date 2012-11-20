@@ -13,3 +13,5 @@ see what changes have been made to the files.
 
 If the following line is added to the xml files, they can viewed as tables in firefox and safari
     <?xml-stylesheet type="text/xsl" href="sensormap-table.xslt"?>
+
+Example: http://concord-consortium.github.com/vernier-sensor-map
